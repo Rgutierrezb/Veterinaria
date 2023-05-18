@@ -21,8 +21,8 @@ public class Veterinaria {
         
         // EJEMPLO DE CRUD PARA LA ENTIDAD PERSONA
 
-        Persona persona = new Persona(16873858, "Rodrigo", "Gutierrez", "Benitez", new Date("06/29/1986"));
-        Persona persona2 = new Persona(12345678, "Katherine", "Flores", "Rey", new Date("04/22/1086"));
+        Persona persona = new Persona(12345677, "Andres", "Jimenez", "Suarez", new Date("06/29/1986"));
+        Persona persona2 = new Persona(12345678, "Juanito", "Perez", "Valenzuela", new Date("08/22/1975"));
         PersistanceController controller = new PersistanceController();
         
         //create
