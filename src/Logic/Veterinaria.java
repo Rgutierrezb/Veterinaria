@@ -43,7 +43,7 @@ public class Veterinaria {
         System.out.println("==================================================");
         System.out.println("Datos de una persona en el sistema veterinaria:");
         System.out.println("");
-        Persona persona3 = controller.getPersonabyID(16873858);
+        Persona persona3 = controller.getPersonabyID(12345677);
         System.out.println(persona3.toString());
         
         System.out.println("==================================================");
